@@ -1,5 +1,5 @@
 ## To add the API key:
-Create a new file in the root directory named `.env.local` and put the following : `REACT_APP_GOOGLE_MAPS_API_KEY='AIzaSyA33w6AJhxAvBU0DDxYyKQabTpKxaFKJ1A'`.
+Create a new file in the root directory named `.env.local` and put the following : `REACT_APP_GOOGLE_MAPS_API_KEY='API_KEY'`.
 
 
 
